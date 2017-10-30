@@ -1,0 +1,15 @@
+1. How to check a variable’s type?
+	Step1: Run Python
+	Step 2: type(variable)
+
+2. In what cases, you will get SyntaxError from the compiler telling you that some of your variables have invalid names? Can you give 3 different examples of invalid names?
+	We will get SyntaxError for invalid variables' name when the variable has an invalid name:
+	
+	Ex1: Not begin with a letter or an underscore
+	12abc = 40000
+	
+	Ex2: Contain illegal character
+	Percent% = 40
+
+	Ex3: Name is one of the Python keywords
+	if = 1
