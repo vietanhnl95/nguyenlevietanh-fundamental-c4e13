@@ -1,5 +1,5 @@
 1. Nested list are list contains other lists
 2. A list can store both strings and integers together.
 
-  Ex for both questions:
+  Example for both questions:
   Room_size = [[Living room, 50], [Dining room, 25], [Bedroom, 30]]
