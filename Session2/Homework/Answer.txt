@@ -1,0 +1,17 @@
+1.Boolean is the value that is either True of False, and is one of Python's variable type.
+     Example:
+     >>> 2 == 5
+     False
+     >>> "hel" + "lo" == "hello"
+     True
+     >>> 5 > 2
+     True
+2. Flow chart is a diagram that represents the flow of an algorithm or the process of a work.
+3. Nested condition is one (or more) condition lie within another condition.
+     Example:
+     x = int(input("Enter a number: "))
+     if 10 <= x and x < 100:
+        if x % 2 == 0:
+          print("x is a two-digit even number")
+        else:
+          print("x is a two-digit odd number")
